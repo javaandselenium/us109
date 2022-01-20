@@ -8,5 +8,5 @@ public interface IEndPoints {
 	String deleteOperation="/repos/{owner}/{repo}";
 	
 	String propertyFilepath="./src/test/resources/data.properties";
-	String verificationcode="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";
+	String verificationcode="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";
 }
